@@ -1,0 +1,12 @@
+streamlit
+pillow
+google-generativeai
+langchain_google_genai
+streamlit
+google-generativeai
+python-dotenv
+langchain
+langchain-community
+langchain-core
+easyocr
+langchain-experimental
