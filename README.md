@@ -3,6 +3,16 @@
 
 PenPalSite is a Streamlit application designed to convert image layouts into HTML code. It utilizes OCR (Optical Character Recognition) to extract layout information from uploaded images and generates corresponding HTML code.
 
+## Sample sketch
+![Sample sketch](temp_files/sample.JPG)
+
+##########################################################################
+## Generated webtite
+
+![output](output.JPG)
+
+##########################################################################
+
 ## Installation
 
 To run PenPalSite locally, follow these steps:
